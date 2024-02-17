@@ -1,5 +1,5 @@
 {
-    "name": "wyz/practicalafas",
+    "name": "dataminded/connect-to-afas",
     "type": "library",
     "description": "A PHP library for communicating with AFAS Profit in a practical way.",
     "license": "MIT",
